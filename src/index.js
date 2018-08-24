@@ -15,7 +15,7 @@ class App extends React.Component {
           color={false}
           font="mantap"
           text="juara"
-          size={20}
+          size={30}
           ref={child => {
             this._child = child;
           }}
