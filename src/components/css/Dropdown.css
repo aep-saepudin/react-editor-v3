@@ -1,0 +1,31 @@
+.dropdown__button--change-background {
+  background: #373b3e;
+  border: 1px solid grey;
+  color: grey;
+  font-style: italic;
+  width: 190px;
+}
+
+.dropdown__button--change-background:focus {
+  box-shadow: #ff7b00 0px 0px 0px 0.1rem !important;
+}
+.dropdown__button--change-background:after {
+  float: right;
+  margin-top: 0.655em;
+  color: grey;
+}
+
+.dropdown__item--change-background {
+  padding: 0.7em;
+  border-bottom: 1px solid #1d1e223d;
+  width: 175px;
+}
+
+.dropdown__item--change-background:last-child {
+  border-bottom: none;
+}
+
+.dropdown__item--change-background:hover {
+  background: orange;
+  color: white;
+}

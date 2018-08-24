@@ -1,0 +1,21 @@
+.properties--header {
+  background: #373b3e;
+  color: white;
+  fill: white;
+  border: 1px solid #4c5155;
+  padding: 15px;
+}
+
+.properties--title {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.properties--body {
+  min-height: 400px;
+  min-width: 300px;
+  background: #373b3e;
+  border: 1px solid #4c5155;
+  padding: 15px;
+  color: white;
+}
